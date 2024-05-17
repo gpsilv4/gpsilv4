@@ -1,9 +1,8 @@
-### Hi there 👋
+<img src="images/header.png"></img>
 
-- ⚡ I'm a Software Engineer from Portugal 🇵🇹
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on open source
+👨‍💻 Software Engineer from Portugal 🇵🇹
+
+### Hi there 👋
 
 🚀 About Me<br>
 Hello, I'm Gonçalo, the creative mind behind this GitHub repository. I'm a sociable person and love a good sense of humor, but I also know how to be serious and focused when needed. I am dedicated to my goals and always strive for excellence in everything I do. Whether at work or in personal projects, I am always ready for new challenges and learning opportunities.
